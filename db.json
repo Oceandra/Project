@@ -8,13 +8,13 @@
       "matkul": [
         {
           "kode": "MK01",
-          "nama_mk": "15",
-          "sks": "4000"
+          "nama_mk": "Pemrograman Dasar",
+          "sks": "5"
         },
         {
           "kode": "MK01",
-          "nama_mk": "15",
-          "sks": "4000"
+          "nama_mk": "Pemrograman Website",
+          "sks": "4"
         } 
       ]
     }
