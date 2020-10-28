@@ -2,7 +2,7 @@
   "pemin": [
     {
       "nim": "185150701111007",
-      "nama": "Mesut Ozil",
+      "nama": "Mesut Özil",
       "angkatan": "2018",
       "kelas": "A",
       "matkul": [
@@ -12,8 +12,26 @@
           "sks": "5"
         },
         {
-          "kode": "MK01",
+          "kode": "MK02",
           "nama_mk": "Pemrograman Website",
+          "sks": "4"
+        } 
+      ]
+    },
+    {
+      "nim": "145150701111010",
+      "nama": "Kylian Mbappé",
+      "angkatan": "2014",
+      "kelas": "B",
+      "matkul": [
+        {
+          "kode": "MK01",
+          "nama_mk": "Pemrograman Dasar",
+          "sks": "5"
+        },
+        {
+          "kode": "MK04",
+          "nama_mk": "Enterprise Architecture",
           "sks": "4"
         } 
       ]
